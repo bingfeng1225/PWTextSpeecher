@@ -1,4 +1,4 @@
-package cn.qd.peiwen.pwtextspeecher;
+package cn.qd.peiwen.textspeecher;
 
 /**
  * Created by nick on 2018/5/31.

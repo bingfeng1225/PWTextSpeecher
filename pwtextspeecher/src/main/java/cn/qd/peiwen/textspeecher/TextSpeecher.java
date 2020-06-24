@@ -1,4 +1,4 @@
-package cn.qd.peiwen.pwtextspeecher;
+package cn.qd.peiwen.textspeecher;
 
 import android.content.Context;
 import android.speech.tts.TextToSpeech;
